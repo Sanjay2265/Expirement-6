@@ -49,8 +49,8 @@ function stop() {
 }
 function student() {
     var stu_obj = [
-        { name: 'John', r_num: '123', dob: '20-apr-1995' },
-        { name: 'Joseph', r_num: '456', dob: '05-jan-1998' }
+        { name: 'Sanjay', r_num: '104', dob: '05-jun-2002' },
+        { name: 'Harish', r_num: '058', dob: '13-jun-2002' }
     ];
 
     for (var i = 0; i < stu_obj.length; i++) {
